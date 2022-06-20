@@ -1,0 +1,15 @@
+{
+    "name": "micro/you-heng",
+    "description": "PHP小型API框架",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/",
+            "lib\\": "lib/"
+        }
+    },
+    "require": {
+        "topthink/think-orm": "^2.0"
+    }
+}

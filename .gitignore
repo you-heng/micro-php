@@ -1,0 +1,6 @@
+/.idea
+/.vscode
+/vendor
+*.log
+nginx.htaccess
+.htaccess
