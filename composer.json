@@ -1,6 +1,6 @@
 {
     "name": "micro-php/you-heng",
-    "description": "PHP微型API框架",
+    "description": "PHP微型API库",
     "type": "project",
     "license": "MIT",
     "autoload": {
